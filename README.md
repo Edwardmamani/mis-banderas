@@ -24,7 +24,7 @@ Una aplicación web interactiva que renderiza banderas de diferentes países uti
 
 1. **Clonar el repositorio**:
 ```bash
-git clone [URL_DEL_REPOSITORIO]
+git clone https://github.com/Edwardmamani/mis-banderas
 cd mis-banderas
 ```
 
